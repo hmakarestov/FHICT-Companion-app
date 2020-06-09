@@ -1,1 +1,1 @@
-# FHICT-Companion-app
+FHICT Companion is an Android application that can show the current schedule and upcoming classes for a student. The application can also show a list of the teachers in the department with their contact details. All the data is fetched from the Fontys FHICT API (api.fhict.nl). Upon successful login with the student username and password, the calendar and the list of teachers is displayed.
